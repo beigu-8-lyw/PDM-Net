@@ -1,0 +1,9 @@
+{
+  "long_frames": 5,
+  "short_frames": 3,
+  "image_size": 32,
+  "base_channels": 4,
+  "feature_channels": 8,
+  "lstm_layers": 2,
+  "num_prototypes": 5
+}

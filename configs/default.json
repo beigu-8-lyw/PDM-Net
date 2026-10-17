@@ -1,0 +1,15 @@
+{
+  "long_frames": 13,
+  "short_frames": 9,
+  "image_size": 256,
+  "base_channels": 32,
+  "feature_channels": 256,
+  "lstm_layers": 2,
+  "num_prototypes": 100,
+  "learning_rate": 0.0002,
+  "prototype_learning_rate": 0.0002,
+  "loss_weight": 0.1,
+  "score_weight": 0.6,
+  "residual_mode": "signed",
+  "prediction_reduction": "mean"
+}
